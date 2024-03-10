@@ -1,10 +1,14 @@
-Certainly! Here's a template for your GitHub README:
-
----
 
 # Andrews Opoku
 
 Hey there! 👋 I'm Andrews Opoku, a passionate Software Developer with a knack for creating user-centric and innovative solutions. My journey in the tech world has led me to explore various technologies and contribute to exciting projects.
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/andrews-opoku-0b9912196/)
+- [Website](https://andrews.inserviz.com)
+- Email: aopoku255@gmail.com
+- Phone: +233 545 098 438 | +233 501 311 122
 
 ## 🚀 About Me
 
@@ -15,7 +19,7 @@ Hey there! 👋 I'm Andrews Opoku, a passionate Software Developer with a knack 
 
 ## 💼 Work Experience
 
-### [Center For Applied Research and Innovation In Supply Chain Africa (CARISCA)](https://carisca.org/)
+### [Center For Applied Research and Innovation In Supply Chain Africa (CARISCA), USAID, ASU, KNUST]
 #### IT Assistant (November 2023 – Present)
 - Contributed to the development of the business forum website
 - Integrated printers into the same network for enhanced functionality
@@ -75,24 +79,9 @@ Hey there! 👋 I'm Andrews Opoku, a passionate Software Developer with a knack 
 - Problem-Solving
 - Communication
 
-**Interests:**
-- Education
-- Employability
-- Youth Transition
-- Research
-
-## 📫 Connect With Me
-
-- [LinkedIn](#)
-- [GitHub](#)
-- [Website](#)
-- Email: aopoku255@gmail.com
-- Phone: +233 545 098 438 | +233 501 311 122
 
 ## 🤝 Let's Collaborate!
 
 I'm always open to new opportunities, collaborations, and interesting projects. Feel free to reach out!
 
----
 
-Feel free to customize it further based on your preferences and the specific details you want to highlight.
