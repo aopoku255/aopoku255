@@ -19,7 +19,7 @@ Hey there! 👋 I'm Andrews Opoku, a passionate Software Developer with a knack 
 
 ## 💼 Work Experience
 
-### [Center For Applied Research and Innovation In Supply Chain Africa (CARISCA), USAID, ASU, KNUST]
+### [Center For Applied Research and Innovation In Supply Chain Africa (CARISCA), USAID, ASU, KNUST](#)
 #### IT Assistant (November 2023 – Present)
 - Contributed to the development of the business forum website
 - Integrated printers into the same network for enhanced functionality
